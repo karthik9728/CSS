@@ -1,0 +1,29 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#product-overview {
+  background-color: #ff1b68;
+}
+
+.section-title {
+  color: #2ddf5c;
+  /* font-size: inherit; */
+}
+
+#product-overview h1 {
+  color: white;
+  font-family: 'Anton', sans-serif;
+}
+
+h2 + p {
+  color: red;
+}
+
+h3 ~ a {
+  color: violet;
+}
+
+div > p {
+  color: greenyellow;
+}
